@@ -1,4 +1,4 @@
-## binf_align_denovo
+## binf_assemble_denovo
 
 ### Assembling the given reads as fasta file into contigs for denovo alignment
 
